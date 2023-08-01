@@ -2,3 +2,4 @@ Source tree
 1st add clone:
              -->we have github link paste the url or create new
               -->we have already add and select in browse
+               --->after commit in source we can see in github. In that i can go that sample and edit to give commit change.
