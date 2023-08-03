@@ -1,0 +1,2 @@
+Git rebase is used to move branch as if has branched from a different commit
+it reapplies branch commits on top of another base commit
